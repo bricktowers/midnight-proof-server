@@ -10,6 +10,8 @@ The default `midnightnetwork/proof-server` container attempts to download ZK par
 
 To avoid these issues, this setup allows you to **pre-bake** the required parameter files **into the container image**, ensuring the proof server works reliably in all environments.
 
+This project extends the Midnight Network with additional developer tooling.
+
 ---
 
 ## 🛠️ How It Works
